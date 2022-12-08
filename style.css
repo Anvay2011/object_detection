@@ -1,0 +1,36 @@
+.head{
+    font-size: 40px;
+    width: 100%;
+    color: aliceblue;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border-radius:10px ;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.design{
+    font-size: 40px;
+    width: 400px;
+    height: 80px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color:#f09307;
+}
+
+.button_design{
+    font-size: 20px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color:#f09307;
+}
